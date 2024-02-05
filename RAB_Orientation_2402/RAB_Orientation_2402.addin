@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command 1</Text>
+    <Description>Some description for RAB_Orientation_2402</Description>
+    <Assembly>RAB_Orientation_2402.dll</Assembly>
+    <FullClassName>RAB_Orientation_2402.Command1</FullClassName>
+    <ClientId>38f8a5cd-e39b-4cd5-a5b8-526a6cfd5397</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+  <AddIn Type="Command">
+    <Text>My Tool </Text>
+    <Description>Some description for RAB_Orientation_2402</Description>
+    <Assembly>RAB_Orientation_2402.dll</Assembly>
+    <FullClassName>RAB_Orientation_2402.Command2</FullClassName>
+    <ClientId>c1603485-2b8b-49d2-9b04-6f9891795fe0</ClientId>
+    <VendorId>com.YOUR COMPANY NAME</VendorId>
+    <VendorDescription>YOUR COMPANY NAME, YOUR COMPANY URL</VendorDescription>
+  </AddIn>
+</RevitAddIns>
