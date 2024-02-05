@@ -25,7 +25,7 @@ namespace RAB_Orientation_2402
 			Document doc = uiapp.ActiveUIDocument.Document;
 
 			// Your code goes here
-			string messagebox = "Command 1 executed. How does it look?";
+			string messagebox = "Command 1 executed. How does it look? Looks good!";
 			TaskDialog.Show("Test", messagebox);
 
 			return Result.Succeeded;
